@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mthinh
-- 👀 I’m interested in hybrid mobile development like React native and Flutter
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in hybrid mobile development like React Native and Flutter
+- 🌱 I’m currently learning Flutter
 
 <!---
 mthinh/mthinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
